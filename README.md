@@ -1,3 +1,4 @@
 # hello-world
-first repo\n
+first repo
+
 hello world, first commit.
